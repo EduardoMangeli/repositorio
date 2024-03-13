@@ -1,9 +1,0 @@
-1 - Python
-ref: https://www.python.org/
-rel: 3,4,6
-
-
-==========================================
- outro texto
-
-https://github.com/EduardoMangeli/repositorio/blob/main/um_texto.txt
